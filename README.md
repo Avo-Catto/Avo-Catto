@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a secure console based messanger with RSA encryption
+- 🔭 I’m currently working on my social skills
 - 🌱 I’m currently learning ethical hacking
 - 🤔 I know Python + some basic knowledge in other languages
 - 💬 Ask me for help on your/our project
