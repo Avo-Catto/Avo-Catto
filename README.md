@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a web project
-- 🌱 I’m currently learning ethical hacking and C
+- 🌱 I’m currently learning ethical hacking and C/C++
 - 🤔 I know some Python, a bit of HTML and CSS + some little about other languages
 - 💬 Ask me for help on your/our project
 - 📫 How to reach me: [Discord](discordapp.com/users/Avo-Catto#6922)
