@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on a physics engine
-- 🌱 I'm currently learning rust & quantum mechanics
+- 🔭 I'm currently working on an rpi project
+- 🌱 I'm currently learning rust & assembly
 - 💻 I'm currently employed as embedded software developer
 - 🤔 I know python and rust
 - 💬 Ask me for help on your/our project
